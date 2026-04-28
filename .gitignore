@@ -35,3 +35,6 @@ Thumbs.db
 *_old.*
 *_copy.*
 *.swp
+
+# Vercel deployment artifacts (curry local)
+.vercel
